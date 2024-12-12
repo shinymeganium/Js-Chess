@@ -1,2 +1,2 @@
 # Js-Chess
-A chess game greated with javascript
+A chess game created with javascript
